@@ -1,2 +1,2 @@
-# BeginnerWebsite
-Website for familiarizing myself with HTML, CSS, and Javascript
+# Mini-Javascript-Projects
+Project files establishing knowledge in javascript, HTML, and CSS
