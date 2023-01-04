@@ -1,4 +1,2 @@
-# beginnerwebsite
-Code that would allow an individual to manage a database of employees
-
-Written in Python
+# Mini-Javascript-Projects
+Project files establishing knowledge in javascript, HTML, and CSS
